@@ -1,0 +1,15 @@
+agent:
+  radius: 0.1
+  initial_position: [7.40658, -0.53553, 0.92098]
+  initial_rotation: [0, 0.53996, 0, 0.84169]
+camera:
+  height: 1.2
+  fov: 135.0
+  pitch: -30.0
+  min_depth: 0.5
+  max_depth: 50.0
+  res_factor: 2
+env:
+  max_steps: 200
+  success_threshold: 3.0
+  name: 'r2r'

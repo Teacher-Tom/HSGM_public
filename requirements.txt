@@ -1,0 +1,37 @@
+# ============================================================
+# HSGM - Embodied Navigation with VLM & Habitat
+# ============================================================
+
+# --- Core Numerical & Scientific ---
+numpy>=1.21,<2.0
+scipy>=1.7
+
+# --- Computer Vision & Image Processing ---
+opencv-python>=4.5
+Pillow>=9.0
+imageio>=2.20
+matplotlib>=3.5
+
+# --- 3D / Point Cloud ---
+open3d>=0.15
+numpy-quaternion>=2022.4
+
+# --- Deep Learning ---
+torch>=1.13
+ultralytics>=8.0          # YOLOE for instance segmentation
+
+# --- Habitat Simulator ---
+# NOTE: habitat-sim should be installed via conda:
+#   conda install habitat-sim -c conda-forge -c aihabitat
+# habitat-lab installed via pip:
+#   pip install habitat-lab
+
+# --- VLM API ---
+openai>=1.0               # OpenAI / Azure OpenAI compatible API
+
+# --- Utilities ---
+PyYAML>=6.0
+tqdm>=4.60
+json5>=0.9
+pathfinding>=1.0          # A* path planning
+fastdtw>=0.3              # Dynamic Time Warping for nDTW metric
