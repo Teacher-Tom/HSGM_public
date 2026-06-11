@@ -6,7 +6,7 @@ Official code for the CVPR 2026 paper:
 > Kailing Li, Tianwen Qian, Lijin Yang, Yuqian Fu, Jingyu Gong, Xiaoling Wang, Liang He
 > *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026, pp. 15243-15252.*
 >
-> [[Paper]](https://openaccess.thecvf.com/CVPR2026) · [[Project]](https://github.com/Teacher-Tom/HSGM_public)
+> [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/html/Li_Bridging_the_2D-3D_Gap_A_Hierarchical_Semantic-Geometric_Map_for_Vision_CVPR_2026_paper.html) · [[Project]](https://github.com/Teacher-Tom/HSGM_public)
 
 ---
 
